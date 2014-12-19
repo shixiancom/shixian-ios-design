@@ -1,0 +1,121 @@
+## Global
+
+Push ideas into reality.
+实现你感兴趣的互联网产品
+
+Sign in with
+第三方登录
+
+Discover without signing in
+随便看看
+
+Weibo
+新浪微博
+
+News Feed
+首页
+
+Discover
+发现
+
+Notifications
+消息
+
+My Projects
+我的项目
+
+## Inside a project
+
+Project
+项目
+
+Post
+想法
+
+Discussions
+讨论
+
+Expand
+展开详情
+
+## Member's profile
+
+Follow
+关注
+
+Following
+已关注
+
+Unfollow
+取消关注
+
+Activities
+最新动态
+
+Projects
+参与项目
+
+Followers
+被关注
+
+Followings
+关注的人
+
+joined project
+加入了项目
+
+is now following
+关注了项目
+
+initiated project
+创建了项目
+
+## Discover
+
+followed by 12 people you know (213 in total)
+12 个你关注的人正在关注（共 213 人关注）
+
+## Action types
+
+added a post in
+在项目中发表了一个想法
+
+replied your post
+回复了你的想法
+
+is now following you
+关注了你
+
+mentioned you in a reply
+再回复中提到了你
+
+mentioned you in a post
+在想法中提到了你
+
+requested to join
+请求加入项目
+
+invited you to join
+邀请你加入
+
+## Other
+
+Reply
+回复
+
+All caught up
+下面？下面没有了……
+
+Confirm
+确认
+
+Confirmed
+已确认
+
+Decline
+忽略
+
+No, thanks
+忽略
+
+

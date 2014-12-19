@@ -1,0 +1,9 @@
+# Notifications 跳转说明
+
+`{{ post }}` 前往想法
+`{{ post#reply }}` 前往想法，以这个回复为锚点，参考 URL 中的 hash 的概念
+`{{ task.open }}` 前往这个 task 被添加的地方
+`{{ task.complete }}` 前往这个 task 被完成的地方
+
+
+# 
